@@ -5,7 +5,7 @@ function Header() {
   return (
     <div className="header">
       <img
-        src="./src/components/react-symbol.png"
+        src="/sample_travel_journey_page/images/react-symbol.png"
         alt="logo"
         className="logo"
       />

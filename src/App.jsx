@@ -6,35 +6,35 @@ function App() {
     <div>
       <Header />
       <Trips
-        image="src/components/img.jpg"
+        image="/sample_travel_journey_page/images/img.jpg"
         title="gafoor"
         country="India"
         name="gosala"
         dates="2022 - 2026"
       />
       <Trips
-        image="src/components/img2.jpg"
+        image="/sample_travel_journey_page/images/img2.jpg"
         title="TEJA"
         country="India"
         name="gudlavalleru"
         dates="2022 - 2026"
       />
       <Trips
-        image="src/components/img3.jpg"
+        image="/sample_travel_journey_page/images/img3.jpg"
         title="nouhid"
         country="India"
         name="pamaru"
         dates="2022 - 2026"
       />
       <Trips
-        image="src/components/img4.jpg"
+        image="/sample_travel_journey_page/images/img4.jpg"
         title="chaitanya"
         country="India"
         name="machilipatanam"
         dates="2022 - 2026"
       />
       <Trips
-        image="src/components/img5.jpg"
+        image="/sample_travel_journey_page/images/img5.jpg"
         title="vishwanath"
         country="India"
         name="machilipatanam"
