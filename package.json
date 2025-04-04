@@ -2,6 +2,7 @@
   "name": "travel_journal_react",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://shaik-gafoor.github.io/travel_journal_react",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
