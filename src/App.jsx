@@ -7,38 +7,43 @@ function App() {
       <Header />
       <Trips
         image="/sample_travel_journey_page/images/img.jpg"
-        title="gafoor"
+        name=" Shaik Gafoor"
         country="India"
-        name="gosala"
+        city="gosala"
         dates="2022 - 2026"
+        course="Full Stack Development"
       />
       <Trips
         image="/sample_travel_journey_page/images/img2.jpg"
-        title="TEJA"
+        name="N.Teja"
         country="India"
-        name="gudlavalleru"
+        city="gudlavalleru"
         dates="2022 - 2026"
+        course="Data Analyst"
       />
       <Trips
         image="/sample_travel_journey_page/images/img3.jpg"
-        title="nouhid"
+        name="Shaik Nouhid"
         country="India"
-        name="pamaru"
+        city="pamaru"
         dates="2022 - 2026"
+        course="Machine Learning"
       />
       <Trips
         image="/sample_travel_journey_page/images/img4.jpg"
-        title="chaitanya"
+        name="S.Chaithanya"
         country="India"
-        name="machilipatanam"
+        city="machilipatanam"
         dates="2022 - 2026"
+        course="Full Stack Development"
       />
       <Trips
         image="/sample_travel_journey_page/images/img5.jpg"
-        title="vishwanath"
+        name="Vishwanath"
         country="India"
-        name="machilipatanam"
+        city="machilipatanam"
         dates="2022 - 2026"
+        course="Java Development"
       />
     </div>
   );

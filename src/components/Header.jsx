@@ -9,7 +9,7 @@ function Header() {
         alt="logo"
         className="logo"
       />
-      <span>my travel journal.</span>
+      <span>My React Prep</span>
     </div>
   );
 }
