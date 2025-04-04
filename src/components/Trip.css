@@ -1,0 +1,75 @@
+/* Container for the entire section */
+.trip-container {
+  width: 80%;
+  margin: 20px auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header Section */
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #f04a3d;
+  padding: 15px;
+  border-radius: 10px 10px 0 0;
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+/* Main Content Layout */
+.trip-content {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 0 0 10px 10px;
+}
+
+/* Image Styling */
+.trip-image {
+  width: 40%;
+  border-radius: 10px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Info Section */
+.trip-info {
+  width: 60%;
+}
+
+.location {
+  font-size: 0.9rem;
+}
+
+.location a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.trip-title {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin: 5px 0;
+}
+
+.trip-date {
+  font-size: 1rem;
+  font-weight: bold;
+  color: gray;
+}
+
+.trip-description {
+  font-size: 1rem;
+  line-height: 1.5;
+}
