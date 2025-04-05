@@ -19,7 +19,7 @@ function App() {
         country="India"
         city="gudlavalleru"
         dates="2022 - 2026"
-        course="Data Analyst"
+        course="Data scientist"
       />
       <Trips
         image="/sample_travel_journey_page/images/img3.jpg"
@@ -31,7 +31,7 @@ function App() {
       />
       <Trips
         image="/sample_travel_journey_page/images/img4.jpg"
-        name="S.Chaithanya"
+        name="Sri Krishna Chaithanya Raj"
         country="India"
         city="machilipatanam"
         dates="2022 - 2026"
